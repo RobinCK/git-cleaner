@@ -1,0 +1,11 @@
+"*.{ts,json,md}":
+  - prettier --write
+  - git add
+
+"*.ts":
+  - eslint . --ext .ts --fix
+  - git add
+
+"*.{yaml,yml}":
+  - yamllint
+  - git add
