@@ -1,0 +1,32 @@
+{
+  "name": "git-cleaner",
+  "version": "1.0.0",
+  "description": "CLI utility for bulk cleanup of branches and tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinCK/git-cleaner.git"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "branch",
+    "tag"
+  ],
+  "author": "Igor Ognichenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinCK/git-cleaner/issues"
+  },
+  "homepage": "https://github.com/RobinCK/git-cleaner#readme",
+  "dependencies": {
+    "prompts": "^2.3.2",
+    "simple-git": "^2.18.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
