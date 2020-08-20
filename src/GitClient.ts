@@ -19,7 +19,8 @@ export class GitClient {
                 .filter((line) => line.trim())
                 .map((line) => line.split('refs/tags/'))
                 .filter(([, tagName]) => tagName)
-                .map(([, tagName]) => tagName);
+                .map(([, tagName]) => tagName)
+                .filter((name) => name.indexOf('^{}') === -1);
         }
 
         return tagsResponse;
