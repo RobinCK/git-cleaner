@@ -1,6 +1,6 @@
 {
   "name": "git-cleaner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI utility for bulk cleanup of branches and tags",
   "main": "dist/cli.js",
   "scripts": {
