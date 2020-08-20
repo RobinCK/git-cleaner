@@ -10,8 +10,10 @@ elements for deletion, and this is exactly the task of this utility.
 
 ## Features
 
-- support multiselect branches/tags for removal
-- support for multiple remote
+- multiselect branches/tags for removal
+- multiple remote
+- filtering on select mode
+- displaying progress
 
 ## Install
 
