@@ -58,3 +58,21 @@ Commands:
   branch|b        clean branches
   help [command]  display help for command
 ```
+
+## Examples
+
+#### Removing branches by regexp
+
+<img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_branch_regexp.gif" />
+
+#### Removing selected branches
+
+<img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_branch_select.gif" />
+
+#### Removing tags by regexp
+
+<img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_tag_regexp.gif" />
+
+#### Removing selected tags
+
+<img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_tag_select.gif" />
