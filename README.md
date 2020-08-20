@@ -8,6 +8,11 @@ Sooner or later, a lot of unnecessary branches and tags can accumulate
 in the project, but most UI utilities do not allow you to multi-select
 elements for deletion, and this is exactly the task of this utility.
 
+## Features
+
+- support multiselect branches/tags for removal
+- support for multiple remote
+
 ## Install
 
 #### NPM
@@ -92,3 +97,5 @@ gitc tag
 ```
 
 <img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_tag_select.gif" />
+
+MIT © [Igor Ognichenko](https://github.com/RobinCK)
