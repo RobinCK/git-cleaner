@@ -23,5 +23,5 @@ export const regExpAction = async (git: GitClient, items: IGitResponse, args: st
         logger.success(`Selected for removal ${chalk.gray('›')} ` + match.join(', '));
     }
 
-    return await processor(await selectPrompt(match), async (item: string) => git.removeObject(processedRemote, item));
+    return await processor(match, async (item: string) => git.removeObject(processedRemote, item));
 };
