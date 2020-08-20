@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm run clean && tsc -p tsconfig.json",
     "clean": "trash dist",
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md && npm run build",
     "commit": "npx git-cz",
     "lint": "eslint . --ext .ts --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
