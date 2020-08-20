@@ -1,3 +1,9 @@
+## [1.0.7](https://github.com/RobinCK/git-cleaner/compare/1.0.6...1.0.7) (2020-08-20)
+
+### Features
+
+- **ci:** configured ci ([5a630d9](https://github.com/RobinCK/git-cleaner/commit/5a630d9bbdc455d92f410dc4b94f1c4bc9e448e0))
+
 ## [1.0.6](https://github.com/RobinCK/git-cleaner/compare/1.0.5...1.0.6) (2020-08-20)
 
 ## [1.0.5](https://github.com/RobinCK/git-cleaner/compare/1.0.4...1.0.5) (2020-08-20)
