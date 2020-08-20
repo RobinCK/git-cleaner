@@ -1,3 +1,5 @@
+## [1.0.3](https://github.com/RobinCK/git-cleaner/compare/1.0.2...1.0.3) (2020-08-20)
+
 ## [1.0.2](https://github.com/RobinCK/git-cleaner/compare/1.0.1...1.0.2) (2020-08-20)
 
 ### Bug Fixes
