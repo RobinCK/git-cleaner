@@ -42,6 +42,10 @@ tsconfig.json
 .lintstagedrc.yml
 .prettierignore
 .prettierrc.yml
+.eslintignore
+.eslintrc
+LICENSE
+README.md
 CHANGELOG.md
 yarn.lock
 
