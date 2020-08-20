@@ -1,6 +1,6 @@
 # git-cleaner
 
-![Build CI](https://github.com/RobinCK/git-cleaner/workflows/Build%20CI/badge.svg)
+![Build CI](https://github.com/RobinCK/git-cleaner/workflows/Build%20CI/badge.svg?branch=master)
 [![Version](https://img.shields.io/npm/v/git-cleaner.svg?style=flat-square)](https://www.npmjs.com/package/git-cleaner)
 [![License](https://img.shields.io/npm/l/git-cleaner.svg?style=flat-square)](https://github.com/RobinCK/git-cleaner/blob/master/LICENSE)
 
