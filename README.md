@@ -63,16 +63,32 @@ Commands:
 
 #### Removing branches by regexp
 
+```shell script
+gitc branch feat
+```
+
 <img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_branch_regexp.gif" />
 
 #### Removing selected branches
+
+```shell script
+gitc branch
+```
 
 <img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_branch_select.gif" />
 
 #### Removing tags by regexp
 
+```shell script
+gitc tag 'v.*\.2\..*'
+```
+
 <img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_tag_regexp.gif" />
 
 #### Removing selected tags
+
+```shell script
+gitc tag
+```
 
 <img src="https://github.com/RobinCK/git-cleaner/raw/master/assets/gitc_tag_select.gif" />
