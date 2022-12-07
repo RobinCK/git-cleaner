@@ -35,7 +35,7 @@
     "cli-progress": "^3.8.2",
     "commander": "^6.0.0",
     "prompts": "^2.3.2",
-    "simple-git": "^2.18.0",
+    "simple-git": "^3.15.0",
     "yaml-lint": "^1.2.4"
   },
   "devDependencies": {
